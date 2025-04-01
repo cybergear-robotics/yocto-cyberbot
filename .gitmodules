@@ -1,0 +1,22 @@
+[submodule "sources/poky"]
+	path = sources/poky
+	url = git://git.yoctoproject.org/poky
+	branch = scarthgap
+[submodule "sources/meta-raspberrypi"]
+	path = sources/meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+	branch = scarthgap
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = https://git.openembedded.org/meta-openembedded
+	branch = scarthgap
+[submodule "sources/meta-ros"]
+	path = sources/meta-ros
+	url = https://github.com/ros/meta-ros.git
+	branch = scarthgap
+[submodule "sources/meta-cyberbot"]
+	path = sources/meta-cyberbot
+	url = https://github.com/cybergear-robotics/meta-cyberbot.git
+[submodule "sources/meta-microros"]
+	path = sources/meta-microros
+	url = https://github.com/cybergear-robotics/meta-microros.git
