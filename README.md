@@ -25,5 +25,5 @@ This yocto builds an Raspberry PI SD-card image which boots ROS2 and brings up t
 
 4. Build image
    ```bash
-   bitbake ros-image-cybebrot
+   bitbake ros-image-cyberbot
    ```
